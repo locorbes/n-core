@@ -1,0 +1,15 @@
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.vbproj.ResolveComReference.cache
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.Resources.resources
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.vbproj.GenerateResource.cache
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.vbproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\VB\MP3Player\bin\Debug\MP3Player.exe.config
+C:\Users\K\Desktop\VB\MP3Player\bin\Debug\MP3Player.exe
+C:\Users\K\Desktop\VB\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\K\Desktop\VB\MP3Player\bin\Debug\MP3Player.xml
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.exe
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.xml
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.pdb
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.Main.resources
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.More.resources
+C:\Users\K\Desktop\VB\MP3Player\obj\Debug\MP3Player.vbprojAssemblyReference.cache
